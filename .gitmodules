@@ -1,0 +1,3 @@
+[submodule "MHDDoS"]
+	path = MHDDoS
+	url = git@github.com:MHProDev/MHDDoS.git
